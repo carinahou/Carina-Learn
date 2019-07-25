@@ -1,0 +1,2 @@
+安装angular，使用ng命令创建新项目
+*ngFor 语法的使用：  *ngFor="let xxxxs of xxxx": =====> let 定义循环体， of定义遍历出的item
