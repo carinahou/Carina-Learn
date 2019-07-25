@@ -1,2 +1,5 @@
 安装angular，使用ng命令创建新项目
 *ngFor 语法的使用：  *ngFor="let xxxxs of xxxx": =====> let 定义循环体， of定义遍历出的item
+插值表达式{{    }}
+属性绑定值  属性名加中括号「属性名」＝值
+*ngIf  作为条件隐藏显示节点条件为false时节点不会创建渲染。
